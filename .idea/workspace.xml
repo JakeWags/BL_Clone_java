@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec0a4788-70b8-41b2-b4c8-c90de9b395b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YudB83gIrP3cbhblpuIz0l4Ait" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="minigames" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Blackjack">
+    <configuration name="BJ_Card" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="minigames.blackjack.BJ_Card" />
+      <module name="BL_clone_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="minigames.blackjack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BJ_Deck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="minigames.blackjack.BJ_Deck" />
+      <module name="BL_clone_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="minigames.blackjack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BJ_Hand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="minigames.blackjack.BJ_Hand" />
+      <module name="BL_clone_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="minigames.blackjack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Blackjack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="minigames.blackjack.Blackjack" />
+      <module name="BL_clone_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="minigames.blackjack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Deck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="minigames.util.Deck" />
+      <module name="BL_clone_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="minigames.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="BL_clone_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Java" />
+      <item itemvalue="Application.BJ_Card" />
+      <item itemvalue="Application.BJ_Hand" />
+      <item itemvalue="Application.Deck" />
+      <item itemvalue="Application.BJ_Deck" />
+      <item itemvalue="Application.Blackjack" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Blackjack" />
+        <item itemvalue="Application.BJ_Deck" />
+        <item itemvalue="Application.Deck" />
+        <item itemvalue="Application.BJ_Hand" />
+        <item itemvalue="Application.BJ_Card" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec0a4788-70b8-41b2-b4c8-c90de9b395b1" name="Default Changelist" comment="" />
+      <created>1583796274763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583796274763</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583796399097">
+      <screen x="0" y="0" width="1920" height="1039" />
+    </state>
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1039@0.0.1920.1039" timestamp="1583796399097" />
+    <state x="646" y="245" width="621" height="589" key="#com.intellij.ide.util.MemberChooser" timestamp="1583807625740">
+      <screen x="0" y="0" width="3840" height="1039" />
+    </state>
+    <state x="646" y="245" width="621" height="589" key="#com.intellij.ide.util.MemberChooser/0.0.3840.1039@0.0.3840.1039" timestamp="1583807625740" />
+    <state x="692" y="306" width="529" height="424" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583796385062">
+      <screen x="0" y="0" width="1920" height="1039" />
+    </state>
+    <state x="692" y="306" width="529" height="424" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1039@0.0.1920.1039" timestamp="1583796385062" />
+    <state x="691" y="234" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1583796882945">
+      <screen x="0" y="0" width="3840" height="1039" />
+    </state>
+    <state x="691" y="234" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.3840.1039@0.0.3840.1039" timestamp="1583796882945" />
+    <state x="687" y="429" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1583796457062">
+      <screen x="0" y="0" width="1920" height="1039" />
+    </state>
+    <state x="687" y="429" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1039@0.0.1920.1039" timestamp="1583796457062" />
+    <state x="693" y="290" width="528" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583804512539">
+      <screen x="0" y="0" width="3840" height="1039" />
+    </state>
+    <state x="693" y="290" width="528" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3840.1039@0.0.3840.1039" timestamp="1583804512539" />
+    <state width="1876" height="289" key="GridCell.Tab.0.bottom" timestamp="1583809756912">
+      <screen x="0" y="0" width="3840" height="1039" />
+    </state>
+    <state width="1876" height="289" key="GridCell.Tab.0.bottom/0.0.3840.1039@0.0.3840.1039" timestamp="1583809756912" />
+    <state width="1876" height="289" key="GridCell.Tab.0.center" timestamp="1583809756911">
+      <screen x="0" y="0" width="3840" height="1039" />
+    </state>
+    <state width="1876" height="289" key="GridCell.Tab.0.center/0.0.3840.1039@0.0.3840.1039" timestamp="1583809756911" />
+    <state width="1876" height="289" key="GridCell.Tab.0.left" timestamp="1583809756911">
+      <screen x="0" y="0" width="3840" height="1039" />
+    </state>
+    <state width="1876" height="289" key="GridCell.Tab.0.left/0.0.3840.1039@0.0.3840.1039" timestamp="1583809756911" />
+    <state width="1876" height="289" key="GridCell.Tab.0.right" timestamp="1583809756912">
+      <screen x="0" y="0" width="3840" height="1039" />
+    </state>
+    <state width="1876" height="289" key="GridCell.Tab.0.right/0.0.3840.1039@0.0.3840.1039" timestamp="1583809756912" />
+    <state x="554" y="438" width="805" height="203" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583800211093">
+      <screen x="0" y="0" width="3840" height="1039" />
+    </state>
+    <state x="554" y="438" width="805" height="203" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.3840.1039@0.0.3840.1039" timestamp="1583800211093" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1583803829195">
+      <screen x="0" y="0" width="3840" height="1039" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.3840.1039@0.0.3840.1039" timestamp="1583803829195" />
+  </component>
+</project>
