@@ -36,8 +36,12 @@ public class Blackjack implements Minigame {
 	public void play() {
 		System.out.println("It's time to play some blackjack!");
 		System.out.println("I'll deal you in, get as close to 21 as possible without going over and beat me!");
-		System.out.println("Here's your cards: " + p_hand);
-		System.out.println("The dealer's hand looks like this: [****, " + d_hand.getCard(d_hand.size() - 1) + "]");
+		System.out.print ("\n==== Your Cards ====\n");
+		System.out.printf  ("""
+				%s
+				%s
+				""", p_hand.getCard(0), p_hand.getCard(1));
+		System.out.print ("====================\n\n");
 
 		while(playing) {
 			if (makeAction() == 1) {
@@ -56,7 +60,7 @@ public class Blackjack implements Minigame {
 		System.out.println("\nWould you like to play again? (Y/N)");
 		System.out.println("-->");
 		String input = s.nextLine();
-		if (input.equals("Y"))
+		if (input.equalsIgnoreCase("Y"))
 			reset();
 	}
 
@@ -127,6 +131,10 @@ public class Blackjack implements Minigame {
 		System.out.println("===========================");
 		endGame();
 		reset();
+	}
+
+	private void printHand(BJ_Hand h) {
+
 	}
 
 	@Override

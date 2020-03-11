@@ -51,6 +51,12 @@ public class Card implements Card_Interface {
 
 	@Override
 	public String toString() {
-		return name;
+		String v = name;
+		while (v.length() < 6)
+			v = " " + v;
+		return  " ------- \n" +
+				"|" + v + " |\n" +
+				"|       |\n" +
+				" -------";
 	}
 }

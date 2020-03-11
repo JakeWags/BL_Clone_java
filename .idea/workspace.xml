@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec0a4788-70b8-41b2-b4c8-c90de9b395b1" name="Default Changelist" comment="" />
+    <list default="true" id="ec0a4788-70b8-41b2-b4c8-c90de9b395b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BL_clone_java/minigames/blackjack/BJ_Hand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BL_clone_java/minigames/blackjack/BJ_Hand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BL_clone_java/minigames/blackjack/Blackjack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BL_clone_java/minigames/blackjack/Blackjack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/minigames/blackjack/BJ_Hand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/minigames/blackjack/BJ_Hand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/minigames/blackjack/Blackjack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/minigames/blackjack/Blackjack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/minigames/util/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/minigames/util/Card.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YudB83gIrP3cbhblpuIz0l4Ait" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +40,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -124,10 +137,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Blackjack" />
+        <item itemvalue="Application.BJ_Card" />
         <item itemvalue="Application.BJ_Deck" />
         <item itemvalue="Application.Deck" />
         <item itemvalue="Application.BJ_Hand" />
-        <item itemvalue="Application.BJ_Card" />
       </list>
     </recent_temporary>
   </component>
@@ -169,22 +182,26 @@
       <screen x="0" y="0" width="3840" height="1039" />
     </state>
     <state x="693" y="290" width="528" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3840.1039@0.0.3840.1039" timestamp="1583804512539" />
-    <state width="1876" height="289" key="GridCell.Tab.0.bottom" timestamp="1583809756912">
-      <screen x="0" y="0" width="3840" height="1039" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom" timestamp="1583897418568">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
-    <state width="1876" height="289" key="GridCell.Tab.0.bottom/0.0.3840.1039@0.0.3840.1039" timestamp="1583809756912" />
-    <state width="1876" height="289" key="GridCell.Tab.0.center" timestamp="1583809756911">
-      <screen x="0" y="0" width="3840" height="1039" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1039@0.0.1920.1039" timestamp="1583897418568" />
+    <state width="1876" height="289" key="GridCell.Tab.0.bottom/0.0.3840.1039@0.0.3840.1039" timestamp="1583810111254" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center" timestamp="1583897418566">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
-    <state width="1876" height="289" key="GridCell.Tab.0.center/0.0.3840.1039@0.0.3840.1039" timestamp="1583809756911" />
-    <state width="1876" height="289" key="GridCell.Tab.0.left" timestamp="1583809756911">
-      <screen x="0" y="0" width="3840" height="1039" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center/0.0.1920.1039@0.0.1920.1039" timestamp="1583897418566" />
+    <state width="1876" height="289" key="GridCell.Tab.0.center/0.0.3840.1039@0.0.3840.1039" timestamp="1583810111246" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left" timestamp="1583897418565">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
-    <state width="1876" height="289" key="GridCell.Tab.0.left/0.0.3840.1039@0.0.3840.1039" timestamp="1583809756911" />
-    <state width="1876" height="289" key="GridCell.Tab.0.right" timestamp="1583809756912">
-      <screen x="0" y="0" width="3840" height="1039" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left/0.0.1920.1039@0.0.1920.1039" timestamp="1583897418565" />
+    <state width="1876" height="289" key="GridCell.Tab.0.left/0.0.3840.1039@0.0.3840.1039" timestamp="1583810111244" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right" timestamp="1583897418566">
+      <screen x="0" y="0" width="1920" height="1039" />
     </state>
-    <state width="1876" height="289" key="GridCell.Tab.0.right/0.0.3840.1039@0.0.3840.1039" timestamp="1583809756912" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right/0.0.1920.1039@0.0.1920.1039" timestamp="1583897418566" />
+    <state width="1876" height="289" key="GridCell.Tab.0.right/0.0.3840.1039@0.0.3840.1039" timestamp="1583810111250" />
     <state x="554" y="438" width="805" height="203" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583800211093">
       <screen x="0" y="0" width="3840" height="1039" />
     </state>

@@ -1,7 +1,6 @@
 package minigames.blackjack;
 
 import minigames.util.Hand;
-import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -50,9 +49,11 @@ public class BJ_Hand extends Hand {
 		return !ace_indexes.isEmpty();
 	}
 
-	private void changeAce(@NotNull BJ_Card card) {
-		card.setValue(1);
-		current_ace_index++;
+	private void changeAce(BJ_Card card) {
+		if (card != null) {
+			card.setValue(1);
+			current_ace_index++;
+		}
 	}
 
 	private void sumValues() {
